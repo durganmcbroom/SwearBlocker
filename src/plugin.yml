@@ -1,0 +1,11 @@
+main: pluginsminecraft.antiswear.NoSwearPlugin
+name: SwearBlocker
+version: 1.0
+author: chestly
+description: a antiswear plugin
+commands:
+  SwearBlocker:
+    description: A Minecraft Chat Swear word Blocker
+    usage:
+    permission: myplugin.mycommand
+    permission-message: You dont Have sufficient permissions to ust this command
